@@ -1,71 +1,41 @@
-GIKI NLP Text Reasoning Task
- Overview
+# 🧠 NLP Text Reasoning Task
 
-This project was completed as part of the GIKI Full Stack AI Bootcamp 2025.
-It focuses on text reasoning and NLP preprocessing — applying natural language understanding techniques to process and analyze structured text data using Python and popular NLP libraries.
+This notebook was created as part of my **GIKI Full Stack AI Bootcamp 2025**, where I explored **Natural Language Processing (NLP)** techniques for text understanding and reasoning.
 
-The notebook demonstrates:
+The goal of this mini-project was to demonstrate how simple NLP logic and transformer-based models can **analyze, clean, and reason over structured text data**, such as extracting entities, performing conversions, or identifying relationships.
 
-Text data cleaning and normalization
+---
 
-Tokenization and feature extraction
+## 🔍 What I Did
+- Preprocessed raw text (tokenization, stopword removal, punctuation cleaning)
+- Used **NLTK** and **Hugging Face Transformers** for text representation and model inference
+- Implemented a lightweight reasoning layer to interpret relationships and contextual patterns
+- Evaluated outputs to test how models perform text-based logical tasks
 
-Simple reasoning over textual information
+---
 
-Basic use of pre-trained language models for understanding context
+## ⚙️ Tools & Libraries
+- Python
+- Jupyter Notebook
+- NLTK
+- Hugging Face Transformers
+- Pandas, NumPy
 
-Technologies Used
+---
 
-Python 3.10+
+## 💡 Key Takeaway
+This task strengthened my understanding of **how language models process and reason with text**, building a foundation for more advanced **LLM fine-tuning and prompt engineering** work.
 
-Jupyter Notebook / Google Colab
+---
 
-NLTK – for text preprocessing
+### 👨‍💻 Author
+**Muhammad Rayyan Ayub**
 
-Hugging Face Transformers – for model inference
+📧 [rayyanayub5@gmail.com](mailto:rayyanayub5@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-rayyan-ayub-36a389249/)  
+🔗 [GitHub](https://github.com/rayyan2002)
 
-Scikit-learn – for tokenization and simple reasoning logic
+---
 
-Pandas / NumPy – for data handling
-
- How to Run
-
-Clone the repository:
-
-git clone https://github.com/rayyan2002/giki-nlp-text-reasoning.git
-cd giki-nlp-text-reasoning
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open the notebook:
-
-jupyter notebook M_Rayyan_Ayub_NLP_Task.ipynb
-
-
-Run all cells to see preprocessing, reasoning, and evaluation steps.
-
- Sample Output
-
-Cleaned and tokenized text
-
-Extracted entities and structured reasoning examples
-
-Small demonstration of text normalization and understanding
-
- Key Learning
-
-This mini-project enhanced my understanding of how language models can perform reasoning tasks on structured text, such as unit conversions or logical text mappings — concepts closely related to LLM fine-tuning and prompt-based reasoning.
-
- Author
-
-Muhammad Rayyan Ayub
-
-LinkedIn
-
-GitHub
-
-Email
+### 🏷️ Repo Description
+> NLP mini-project exploring text reasoning, tokenization, and contextual understanding — created during **GIKI Full Stack AI Bootcamp 2025**.
